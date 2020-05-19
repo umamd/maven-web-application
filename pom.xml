@@ -98,13 +98,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>mss-dev</name>
+	      <name>mss-blr</name>
 	      <url>http://35.178.165.2:8081/repository/mss-dev-release-repo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>mss-dev</id>
-	      <name>mss-snapshot </name>
+	      <id>nexus</id>
+	      <name>mss-blr</name>
 	      <url>http://35.178.165.2:8081/repository/mss-dev-snapshot-repo/</url>
 	    </snapshotRepository>
 	    
